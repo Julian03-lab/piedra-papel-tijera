@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://julian03-lab.github.io/piedra-papel-tijera-frontendmentor/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-layout-using-tailwind-state-persist-with-sustand-and-react-Gya1kTAaN4)
 - Live Site URL: [Live Preview](https://julian03-lab.github.io/piedra-papel-tijera-frontendmentor)
 
 ## My process
